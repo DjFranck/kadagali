@@ -1,0 +1,74 @@
+/*
+------------------------------------------
+Page Template 
+------------------------------------------
+*/
+.logo
+{
+    width:90px;
+    height: 90px;
+    border-radius: 50%;
+}
+
+.menu
+{
+    background-color:white !important; 
+}
+
+.lienMenu
+{
+    color:black !important;
+}
+
+.mainPart
+{
+    margin-top:10%;
+}
+/*
+------------------------------------------
+a propos
+------------------------------------------
+*/
+.underline
+{
+    width: 40px;
+    border-bottom: green 3px solid; 
+    margin-top:-26px;
+}
+
+.image
+{
+    width: 85%;
+    border-radius: 50%;
+
+}
+
+.text
+{
+    font-size:20px;
+}
+
+.icon-text
+{
+    color:green;
+}
+
+
+/*
+------------------------------------------
+Livres
+------------------------------------------
+*/
+.titlePart
+{
+    background-color:green !important;
+    color:white;
+    width:35%;
+}
+
+.cardFooterlivre
+{
+    background-color:#054705;
+    color:white;
+    font-size: 150%;
+}
