@@ -33,7 +33,7 @@
                             <a href="{{route('apropos')}}" class="nav-link active lienMenu">A propos</a>
                             </li>
                             <li class="nav-item">
-                                <a href="{{route('service')}}" class="nav-link lienMenu">Nos Service</a>
+                                <a href="{{route('service')}}" class="nav-link lienMenu">Nos Services</a>
                             </li>
                             <li class="nav-item">
                                 <a href="{{route('livres')}}" class="nav-link lienMenu">Livres</a>
@@ -61,7 +61,7 @@
             <hr/>
             <div class="my-3" style="border-bottom:green 10px solid'border-top:green 10px solid">
                 <center>
-                     &copy; Copyright @php  echo date("Y");@endphp | Site conçu par <a href="hotshi.com">Hotshi</a>
+                     &copy; Copyright @php  echo date("Y"); @endphp | Site web conçu par <a href="https://www.hotshi.com">Hotshi</a>
                 </center>
             </div>
         </footer>

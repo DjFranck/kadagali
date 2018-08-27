@@ -22,8 +22,9 @@ Page Template
 
 .mainPart
 {
-    margin-top:10%;
+    margin-top:13%;
 }
+
 /*
 ------------------------------------------
 a propos
@@ -68,7 +69,33 @@ Livres
 
 .cardFooterlivre
 {
-    background-color:#054705;
+    background-color:#0b320b;
     color:white;
     font-size: 150%;
+}
+
+/*
+------------------------------------------
+nos services
+------------------------------------------
+*/
+.titreService
+{
+    border-bottom:black 1px solid;
+    width:100%;
+    font-size:25px;
+}
+
+.titleEnumaration
+{
+    border-radius:50%;
+    background-color:#0e3e0e;
+    font-size:25px;
+    color:white;
+}
+
+.btnKagali
+{
+    background-color:#0e3e0e;
+    color:white !important;
 }

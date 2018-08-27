@@ -57,7 +57,7 @@
             {{-- fin formulaire --}}
 
             <div class="text-center text-md-left">
-                <a class="btn btn-success" onclick="document.getElementById('contact-form').submit();">Envoyer</a>
+                <a class="btn btnKagali" onclick="document.getElementById('contact-form').submit();">Envoyer</a>
             </div>
             <div class="status"></div>
         </div>
